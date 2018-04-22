@@ -16,12 +16,25 @@ namespace {
         Matrix matrix;
     };
 
+    TEST_F(MatrixTest, AtWorksCorrectly) {
+        EXPECT_EQ(3, matrix.at(0, 2));
+    }
+
+    TEST_F(MatrixTest, SetWorksCorrectly) {
+        matrix.set(0, 2, 100);
+        EXPECT_EQ(100, matrix.at(0, 2));
+    }
+
     TEST_F(MatrixTest, CorrectNumberOfColumns) {
         EXPECT_EQ(4, matrix.n_cols());
     }
 
     TEST_F(MatrixTest, CorrectNumberOfRows) {
         EXPECT_EQ(1, matrix.n_rows());
+    }
+
+    TEST_F(MatrixTest, CorrectlyPrints) {
+        matrix.print();
     }
 }
 

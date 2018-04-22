@@ -17,8 +17,8 @@ public:
     Matrix(unsigned long rows, unsigned long cols) : raw(std::vector< std::vector<int> >(rows, std::vector<int>(cols))) {};
     unsigned long n_rows();
     unsigned long n_cols();
-    int at(int i, int j);
-    void set(int i, int j, int val);
+    int at(unsigned long i, unsigned long j);
+    void set(unsigned long i, unsigned long j, int val);
     void print();
 };
 
