@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/example.dir/main.cpp.o  -o example googletest-build/googlemock/gtest/libgtestd.a googletest-build/googlemock/libgmock_maind.a googletest-build/googlemock/libgmockd.a googletest-build/googlemock/gtest/libgtestd.a -pthread 
