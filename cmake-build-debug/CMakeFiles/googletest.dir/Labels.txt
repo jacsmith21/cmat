@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/jacob/CLionProjects/untitled/cmake-build-debug/CMakeFiles/googletest
+/home/jacob/CLionProjects/untitled/cmake-build-debug/CMakeFiles/googletest.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/CMakeFiles/googletest-complete.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/jacob/CLionProjects/untitled/cmake-build-debug/googletest-prefix/src/googletest-stamp/googletest-test.rule
